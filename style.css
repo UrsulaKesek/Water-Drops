@@ -44,17 +44,17 @@ body {
   border-radius: 50%;
 }
 .drop:nth-child(2) {
-  transform: scale(3) translate(200px, 180px);
+  transform: scale(1.5) translate(200px, 180px);
 }
 .drop:nth-child(3) {
-  transform: scale(2) translate(280px, 10px);
+  transform: scale(1.5) translate(280px, 10px);
 }
 .drop:nth-child(4) {
   transform: scale(1.5) translate(120px, 150px);
 }
 .drop:nth-child(5) {
-  transform: scale(2.5) translate(170px, 170px);
+  transform: scale(1.5) translate(170px, 170px);
 }
 .drop:nth-child(6) {
-  transform: scale(3) translate(50px, 30px);
+  transform: scale(1.5) translate(50px, 30px);
 }
