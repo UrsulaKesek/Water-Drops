@@ -11,8 +11,8 @@ body {
 }
 .drops {
   position: relative;
-  top:10px;
-  left:100px;
+  top: 10px;
+  left: 100px;
 }
 .drop {
   width: 150px;
@@ -31,7 +31,7 @@ body {
   background: #fff;
   width: 20px;
   height: 20px;
-  border-radius:50% ;
+  border-radius: 50%;
 }
 .drop::after {
   content: "";
