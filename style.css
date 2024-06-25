@@ -15,8 +15,8 @@ body {
   left: 100px;
 }
 .drop {
-  width: 40px;
-  height: 40px;
+  width: 100px;
+  height: 100px;
   background: transparent;
   border-radius: 50%;
   box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.05),
